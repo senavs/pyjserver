@@ -1,6 +1,11 @@
 # Python JSON Server
 Python implementation of Node JSON Server (Flask as backend).
 
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/senavs/pyjserver)
+![PyPI](https://img.shields.io/pypi/v/pyjserver)
+![PyPI - License](https://img.shields.io/pypi/l/pyjserver)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/pyjserver)
+
 <p align="center">
   <img src="/docs/gif/pyjserver-demonstration.gif" width="50%" alt="demonstraction" />
 </p>
